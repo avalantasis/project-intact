@@ -27,6 +27,7 @@ spec:
         - "-Xkafka_input.host=kafka"
         - "-Xkafka_input.port=9092"
         - "-Xkafka_input.topic=mmt-reports"
+        - '-Xmodules=["link","network","dpi","security","application","gnodeb"]'
         ports:
         - containerPort: 8080
         resources:
