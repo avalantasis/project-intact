@@ -65,4 +65,4 @@ These screenshorts of the test performed on June 19, 2025:
 
 - Security alerts
 
-<img src=security-alerts.png>
+<img src=img/security-alerts.png>
